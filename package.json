@@ -1,4 +1,4 @@
-{
+  {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
   "description": "",
@@ -11,20 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NGUENANG7/E-Commerce.git"
+    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "Gregory Nguenang",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/NGUENANG7/E-Commerce/issues"
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   },
-  "homepage": "https://github.com/NGUENANG7/E-Commerce#readme",
-
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "init": "^0.1.2",
     "mysql2": "^2.1.0",
     "sequelize": "^5.21.7"
   }
