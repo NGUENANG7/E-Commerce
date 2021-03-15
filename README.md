@@ -6,7 +6,7 @@
 
 > This repo is an excersize to demonstrate the capabilities of sequelize and an express server.
 
-## Link to Walkthrough Video
+## Link to Demo Video
 
 
 
