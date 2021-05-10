@@ -8,7 +8,7 @@
 
 ## Link to Demo Video
 
-
+[Video Link](https://drive.google.com/file/d/1N-3g7QYLV8LYneIGTkpk7ZDqkpubRi5n/view?usp=sharing)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@
 ## Installation
 
 ```
-npm install
+npm run seed
 ```
 
 ## Usage Information
